@@ -1,3 +1,18 @@
+## 📊 My Coding Journey
+
+![LeetCode Stats](./leetcode-stats.png)
+
+> 🏆 HardWork 💪 | Consistency ✅ | Discipline 📜
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
 <h3 align="center">A Passionate Developer, Mentor & Founder of Preparation Street</h3>
 
